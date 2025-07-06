@@ -1,0 +1,6 @@
+pandas
+matplotlib
+mplfinance
+yfinance
+tenacity
+openpyxl
