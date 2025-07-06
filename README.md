@@ -17,8 +17,7 @@ A Python tool to interactively download, analyze, and visualize financial data f
 Run the script from the command line:
 
 ```bash
-python stock_analyzer1.0.py [TICKER ...] [--period PERIOD] [--output OUTPUT_DIR] [--no-plots]
-```
+python stock_analyzer1.0.py
 
 - If you provide no tickers, the script will prompt you interactively for all required information.
 - If you provide tickers, you can also specify the period and output directory as arguments.
